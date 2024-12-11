@@ -1,1 +1,2 @@
 # HDFC-Valuation
+I conducted a valuation of HDFC using Discounted Cash Flow (DCF), but the high reinvestment rate made it difficult to apply effectively. As a result, I opted for relative valuation, which is better suited for such cases. Additionally, I performed a Camel Factor analysis to assess HDFC's financial health across key parameters. The combination of these methods provides a comprehensive view of HDFC’s stability and valuation. Relative valuation offers a clearer picture for comparison within the industry.
